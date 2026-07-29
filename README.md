@@ -209,5 +209,5 @@ keytool -genkey -v -keystore release.keystore -alias ts6droid -keyalg RSA -keysi
 感谢所有为本项目做出贡献的开发者！
 
 <a href="https://github.com/YUAXI/TS6_Droid_CN/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YUAXI/TS6_Droid_CN" />
+  <img src="https://contrib.rocks/image?repo=YUAXI/TS6_Droid_CN&v=20260729" />
 </a>
